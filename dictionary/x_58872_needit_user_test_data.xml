@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="User Test data" max_length="40" name="x_58872_needit_user_test_data" type="collection">
+        <element label="Designation" max_length="40" name="designation" type="string"/>
+        <element label="Job Type" max_length="40" name="job_type" type="string"/>
+        <element label="Location" max_length="40" name="location" type="string"/>
+        <element label="User Name" max_length="40" name="user_name" type="string"/>
+    </element>
+</database>
